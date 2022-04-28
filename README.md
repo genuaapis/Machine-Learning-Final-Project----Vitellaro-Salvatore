@@ -5,3 +5,7 @@ This dataset is information on alternative-fuel stations. I am interested in pre
 I think that the most relevant column types are dates, state, ZIP code, and possibly latitude and longitude.
 
 !["Count by Year"](./Figure_1.png "Count by Year")
+
+!["Count by Year"](./Figure_2.png "Count by Year")
+
+!["Count by Year"](./Figure_3.png "Count by Year")
