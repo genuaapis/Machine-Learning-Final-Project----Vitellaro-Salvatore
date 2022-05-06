@@ -8,3 +8,7 @@ I think that the most relevant column types are dates, state, ZIP code, and lati
 
 
 !["Count by Year"](./Figure_2.png "Count by Year")
+
+
+Most of the columns dropped were either mostly empty or had no bearing on the metrics being considered.
+State was hot-encoded because there are many states.
