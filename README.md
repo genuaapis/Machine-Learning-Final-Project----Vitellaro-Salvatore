@@ -6,4 +6,5 @@ I think that the most relevant column types are dates, state, ZIP code, and lati
 
 !["Count by Year"](./Figure_1.png "Count by Year")
 
+
 !["Count by Year"](./Figure_2.png "Count by Year")
